@@ -43,6 +43,7 @@ public class LT extends WebDriverCommonLib{
 	public void Test1() throws InterruptedException {
 		System.out.println("Test1");
 		loginPage.loginToApp();
+		System.out.println("Test Bhai");
 
 	}
 
